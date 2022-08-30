@@ -27,7 +27,8 @@ enviar la solucitud de cambios directamente.
 
 ## Como contribuir localmente
 
-Antes de todo, instala Git, Python y Poetry.
+!!! attention "Requerimientos"
+    Antes de todo, instala **Git**, **Python** y **Poetry**.
 
 Crea un fork del repositorio:
 
@@ -56,6 +57,9 @@ poetry install
 # Además, instala los git hooks con
 pre-commit install
 ```
+!!! info "Si tuviste problemas:"
+    Recomendamos que utilices un *virtual environment* (venv).
+    Dentro de él instala y corre `poetry`.
 
 Puedes correr el servidor de pruebas con:
 
