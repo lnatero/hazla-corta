@@ -6,7 +6,6 @@ Primero que nada, ¡gracias por tu motivación! 🥳
     Para aportar contenido directamente a la guía, debes primero
     tener una cuenta de [GitHub](https://github.com/signup)
 
-
 ## Como contribuir rápidamente en GitHub
 
 ### Editar una página existente
@@ -23,7 +22,6 @@ enviar la solucitud de cambios directamente.
 !!! info "¿Tienes problemas con lo anterior?"
     No dudes en contactarnos a traves de Instagram
     o Telegram si tienes una duda
-
 
 ## Como contribuir localmente
 
@@ -46,7 +44,6 @@ Crea un fork del repositorio:
     gh repo fork open-source-uc/hazla-corta-drive
     ```
 
-
 ```bash
 # Entra al directorio del repositorio
 cd hazla-corta-drive
@@ -57,6 +54,7 @@ poetry install
 # Además, instala los git hooks con
 pre-commit install
 ```
+
 !!! info "Si tuviste problemas:"
     Recomendamos que utilices un *virtual environment* (venv).
     Dentro de él instala y corre `poetry`.
@@ -81,7 +79,6 @@ git push origin <nombre-de-la-rama>
 La configuración del sitio vive en el archivo `mkdocs.yml`.
 Puedes editar este archivo directamente, pero es necesario que pruebes
 localmente para ver si los cambios se aplican correctamente.
-
 
 ### Crear una nueva página
 
