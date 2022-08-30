@@ -26,8 +26,8 @@ nav:
           - Datos del Navegador: por-area/datos-navegador.md
       - Otros:
           - Unidades Compartidas: por-area/drive-unidades-compartidas.md
-          - Notas (keep): por-area/notas.md
-          - Ubicaciones (maps): por-area/ubicaciones.md
+          - Notas (Keep): por-area/notas.md
+          - Ubicaciones (Maps): por-area/ubicaciones.md
   - Como contribuir: contributing.md
 
 markdown_extensions:
